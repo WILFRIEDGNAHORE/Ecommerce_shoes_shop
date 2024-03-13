@@ -61,18 +61,8 @@ class _HomeViewState extends State<HomeView> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      Image.asset(
-                        "assets/images/logo.png",
-                        width: 130,
-                      ),
-                    ],
-                  ),
-                  SizedBox(
-                    height: 4,
-                  ),
+                  
+                  
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
